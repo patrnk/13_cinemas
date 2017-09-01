@@ -1,6 +1,13 @@
 # Cinemas
 
-[TODO. There will be project description]
+Grabs a list of movies [currently running in Moscow cinema](https://www.afisha.ru/msk/schedule_cinema/) and displays top 10 of them according to ratings from [Kinopoisk](plus.kinopoisk.ru).
+
+## How to run
+Required Python 3.
+```
+pip install -r requirements.txt
+python cinema.py
+```
 
 # Project Goals
 
